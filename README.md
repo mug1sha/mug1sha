@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mug1sha Godson
-- 👀 I’m interested in Web development especialy in Frontend and Designing
+- 👀 I’m interested in Web development especialy in Frontend, python programming and cybercesurity
 - 💞️ I’m looking to collaborate on emerging website designs and all forms of graphic design...
 - 📫 How to reach me: E-mail: godsonmugisha2015@gmail.com
                        whatsapp: +250 795 009 211
