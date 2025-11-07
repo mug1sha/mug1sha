@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mug1sha Godson
 - 👀 I’m interested in  cybercesurity, python programming and Web development especialy in frontend
 - 💞️ I’m looking to collaborate on securing systems, python programming and emerging website designs ...
-- 📫 How to reach me: E-mail: godsonmugisha2015@gmail.com
-                       whatsapp: +250 795 009 211
+- 📫 How to reach me: E-mail: godsonmugisha2015@gmail.com |
+                       whatsapp: +250 795 009 211 | https://mug1sha.github.io/
 - 😄 Pronouns: Mr Godson
 - ⚡ Fun fact: when it runs, take a cup of coffee to celebrate
 
